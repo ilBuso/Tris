@@ -11,8 +11,6 @@
     - [Gameplay](#gameplay)
     - [Clean Up](#clean-up)
 
----
-
 ## About
 
 **Tris** is a command-line implementation of the classic Tic-Tac-Toe game, known as "Tris" in Italian. Developed entirely in the C programming language, this game offers a 1vs1 experience, allowing two players to engage in the timeless battle of X and O.
@@ -24,7 +22,6 @@
 - **1vs1 Gameplay:** Enjoy a traditional Tic-Tac-Toe match against a friend, taking turns to make strategic moves on the game board.
 - **Leaderboard:** Tris includes a built-in leaderboard that keeps track of victories, adding a competitive edge to the game.
 
----
 
 ## Usage
 
