@@ -1,7 +1,7 @@
 # Tris - by *ilBuso*
 
 ## Table of Content
-- [Tris - by *ilBuso*](#tris---by-ilbuso)
+- [Tris](#tris---by-ilbuso)
   - [Table of Content](#table-of-content)
   - [About](#about)
     - [Key Features:](#key-features)
