@@ -4,7 +4,7 @@
 - [Tris](#tris---by-ilbuso)
   - [Table of Content](#table-of-content)
   - [About](#about)
-    - [Key Features:](#key-features)
+    - [Key Features](#key-features)
   - [Usage](#usage)
     - [Download](#download)
     - [Build and Run](#build-and-run)
