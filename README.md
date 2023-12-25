@@ -28,20 +28,20 @@
 ### Download
 To download, clone this repository to your local computer by running the following command:
 ```Bash
-  git clone https://github.com/ilBuso/Tris.git
+git clone https://github.com/ilBuso/Tris.git
 ```
 
 ### Build and Run
 Once downloaded, navigate to the Tris directory and compile the program using the following commands:
 ```Bash
-  cd ./Tris
-  gcc -Wall -O2 -c main.c
-  gcc -Wall -O2 -o tris main.o
+cd ./Tris
+gcc -Wall -O2 -c main.c
+gcc -Wall -O2 -o tris main.o
 ```
 Alternatively, you can use the provided Makefile with the following commands:
 ```Bash
-  cd ./Tris
-  make
+cd ./Tris
+make
 ```
 
 ### Gameplay
@@ -56,9 +56,9 @@ If, for some reason, you are unfamiliar with how to play Tic-Tac-Toe, the progra
 
 To clean up the generated files, run the following commands:
 ```Bash
-  rm -f tris main.o
+rm -f tris main.o
 ```
 Or, if you are using the Makefile, run:
 ```Bash
-  make clean
+make clean
 ```
