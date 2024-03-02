@@ -1,15 +1,13 @@
 # Tris - by *ilBuso*
 
 ## Table of Content
-- [Tris](#tris---by-ilbuso)
-  - [Table of Content](#table-of-content)
-  - [About](#about)
-    - [Key Features](#key-features)
-  - [Usage](#usage)
-    - [Download](#download)
-    - [Build and Run](#build-and-run)
-    - [Gameplay](#gameplay)
-    - [Clean Up](#clean-up)
+- [About](#about)
+  - [Key Features](#key-features)
+- [Usage](#usage)
+  - [Download](#download)
+  - [Build and Run](#build-and-run)
+  - [Gameplay](#gameplay)
+  - [Clean Up](#clean-up)
 
 ## About
 
